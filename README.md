@@ -5,6 +5,20 @@
 
 Short description.
 
+## 📦 Dependencies
+ggplot2)
+gganimate
+tweenr
+magick
+gifski
+dplyr
+magrittr
+countrycode
+grid
+ggflags
+
+
+
 ## Contents
 Table of contents goes here
 
