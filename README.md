@@ -1,5 +1,5 @@
 
-# How to create an animated bar race ranking in R
+# 💡 How to create an animated bar race ranking in R
 Instructions with code of how to create a bar race ranking GIF animation in R like the one below:
 
 ![animated-bar-chart](https://github.com/SzymkowskiDev/animated-bar-race-ranking/blob/master/output.gif?raw=true)
@@ -16,24 +16,7 @@ Instructions with code of how to create a bar race ranking GIF animation in R li
 - [grid](https://cran.r-project.org/web/packages/grid/index.html)
 - [ggflags](https://github.com/ellisp/ggflags)
 
-## Contents
-Table of contents goes here
-
-## 📋 Requirements
-Sth.
-
-## ⭐ Features
-Introductory sentance.
-
-⭐ **Feature 1**
-
-Description of feature 1.
-
-⭐ **Feature 2**
-
-Description of feature 2.
-
-## 📝 Examples
+## 📝 Step 1.
 **Example 1. Title**
 
 Description of the example.
@@ -47,42 +30,47 @@ Description of the example.
 CODE GOES HERE
 ```
 
-## 👨‍💻 Contributing
-Sth
+## 📝 Step 2.
+**Example 1. Title**
 
-## 📦 Builds
-Sth
+Description of the example.
+```javascript
+CODE GOES HERE
+```
+**Example 2. Title**
 
-## 📂 Directory Structure
-Sth
+Description of the example.
+```javascript
+CODE GOES HERE
+```
 
-## 📅 Release schedule / Development schedule / Plans / TODOs
-**Version 1.0.0**
+## 📝 Step 3.
+**Example 1. Title**
 
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
+Description of the example.
+```javascript
+CODE GOES HERE
+```
+**Example 2. Title**
 
-**Version 2.0.0**
+Description of the example.
+```javascript
+CODE GOES HERE
+```
 
-- [ ] Feature 4
-- [ ] Feature 5
-- [ ] Feature 6
+## 📝 Step 4.
+**Example 1. Title**
 
-## 🆕 Changelog
-A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
+Description of the example.
+```javascript
+CODE GOES HERE
+```
+**Example 2. Title**
 
-## ⚙ Configurations
-Sth
-
-## 💡 Tips
-💭 **Tip 1**
-
-Description of tip 1.
-
-💭 **Tip 2**
-
-Description of tip 1.
+Description of the example.
+```javascript
+CODE GOES HERE
+```
 
 ## 🚧 Warnings / Common Errors / Known Issues
 
@@ -107,12 +95,6 @@ Solution to error 2.
 
 
 ``` SOLUTION CODE ```
-
-## 🚀 Upgrading
-Description.
-
-## 📖 Documentation
-Link to the wiki or external site.
 
 ## 🔗 Related Projects / Thanks / References / Acknowledgement 
 * Description 1 [Name 1](http://markdown.github.io)
