@@ -1,5 +1,6 @@
 
-# Project Title
+# Animated bar race ranking in R
+
 📊 Size, dependencies, version, code coverage
 
 Short description.
