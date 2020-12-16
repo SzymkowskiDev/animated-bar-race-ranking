@@ -4,6 +4,8 @@ Instructions with code of how to create a bar race ranking GIF animation in R li
 
 ![animated-bar-chart](https://github.com/SzymkowskiDev/animated-bar-race-ranking/blob/master/output.gif?raw=true)
 
+Medium post available [here](https://medium.com/data-detective/animated-bar-race-ranking-in-r-e63440f149da).
+
 ## 📦 Dependencies
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
 - [gganimate](https://cran.r-project.org/web/packages/gganimate/index.html)
