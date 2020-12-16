@@ -1,23 +1,20 @@
 
-# Animated bar race ranking in R
+# How to create an animated bar race ranking in R
+Instructions with code of how to create a bar race ranking GIF animation in R like the one below:
 
-📊 Size, dependencies, version, code coverage
-
-Short description.
+![animated-bar-chart](https://github.com/SzymkowskiDev/animated-bar-race-ranking/blob/master/output.gif?raw=true)
 
 ## 📦 Dependencies
-ggplot2)
-gganimate
-tweenr
-magick
-gifski
-dplyr
-magrittr
-countrycode
-grid
-ggflags
-
-
+- [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
+- [gganimate](https://cran.r-project.org/web/packages/gganimate/index.html)
+- [tweenr](https://cran.r-project.org/web/packages/tweenr/index.html)
+- [magick](https://cran.r-project.org/web/packages/magick/index.html)
+- [gifski](https://cran.r-project.org/web/packages/gifski/index.html)
+- [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
+- [magrittr](https://cran.r-project.org/web/packages/magrittr/index.html)
+- [countrycode](https://cran.r-project.org/web/packages/countrycode/index.html)
+- [grid](https://cran.r-project.org/web/packages/grid/index.html)
+- [ggflags](https://github.com/ellisp/ggflags)
 
 ## Contents
 Table of contents goes here
