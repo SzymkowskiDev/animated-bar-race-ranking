@@ -18,95 +18,24 @@ Medium post available [here](https://medium.com/data-detective/animated-bar-race
 - [grid](https://cran.r-project.org/web/packages/grid/index.html)
 - [ggflags](https://github.com/ellisp/ggflags)
 
-## 📝 Step 1.
-**Example 1. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-**Example 2. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-
-## 📝 Step 2.
-**Example 1. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-**Example 2. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-
-## 📝 Step 3.
-**Example 1. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-**Example 2. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-
-## 📝 Step 4.
-**Example 1. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-**Example 2. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-
-## 🚧 Warnings / Common Errors / Known Issues
-
-⚠️ **Warning 1**
-
-Description of warning 1.
-
-⚠️ **Warning 2**
-
-Description of warning 2.
-
 ## 🧰 Troubleshooting
-🚩 **Error 1**
+🚩 **ggflags not available on CRAN**
 
-Solution to error 1.
+The package responsible for assigning flags to country codes called "ggflags" is not available on CRAN. That's why one needs to install it from GitHub repo. This can be accomplished using the line below:
 
-``` SOLUTION CODE ```
+``` devtools::install_github("ellisp/ggflags") ```
 
-🚩 **Error 2**
+🚩 **devtools requires Rtools**
 
-Solution to error 2.
+In order to install packages from GitHub, one needs a package called 'devtools'. It can be installed with command:
 
+``` install.packages("devtools") ```
 
-``` SOLUTION CODE ```
+However, the installation of devtools needs to be preceeded by installation of 'Rtools', available [here](https://cran.r-project.org/bin/windows/Rtools/).
 
 ## 🔗 Related Projects / Thanks / References / Acknowledgement 
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
-
-## 🎓 Learning Materials
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
+* [How to create Bar Race Animation Charts in R](https://www.r-bloggers.com/2020/01/how-to-create-bar-race-animation-charts-in-r/)
+* [Inspiration](https://www.youtube.com/watch?v=5FI8c6znXDY&ab_channel=DataBAE)
 
 ## 📧 Contact
 [![](https://img.shields.io/twitter/url?label=/SzymkowskiDev&style=social&url=https%3A%2F%2Ftwitter.com%2FSzymkowskiDev)](https://twitter.com/SzymkowskiDev) [![](https://img.shields.io/twitter/url?label=/kamil-szymkowski/&logo=linkedin&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-szymkowski%2F)](https://www.linkedin.com/in/kamil-szymkowski/) [![](https://img.shields.io/twitter/url?label=@szymkowskidev&logo=medium&logoColor=%23292929&style=social&url=https%3A%2F%2Fmedium.com%2F%40szymkowskidev)](https://medium.com/@szymkowskidev) [![](https://img.shields.io/twitter/url?label=/SzymkowskiDev&logo=github&logoColor=%23292929&style=social&url=https%3A%2F%2Fgithub.com%2FSzymkowskiDev)](https://github.com/SzymkowskiDev)
