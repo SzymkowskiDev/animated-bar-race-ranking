@@ -33,7 +33,7 @@ In order to install packages from GitHub, one needs a package called 'devtools'.
 
 However, the installation of devtools needs to be preceeded by installation of 'Rtools', available [here](https://cran.r-project.org/bin/windows/Rtools/).
 
-## 🔗 Related Projects / Thanks / References / Acknowledgement 
+## 🔗 Related Projects
 * [How to create Bar Race Animation Charts in R](https://www.r-bloggers.com/2020/01/how-to-create-bar-race-animation-charts-in-r/)
 * [Inspiration](https://www.youtube.com/watch?v=5FI8c6znXDY&ab_channel=DataBAE)
 
