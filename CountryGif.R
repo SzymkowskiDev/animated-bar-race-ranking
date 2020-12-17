@@ -8,8 +8,8 @@ library(dplyr)
 library(magrittr)
 library(countrycode)
 library(grid)
-#devtools::install_github("ellisp/ggflags")
-#library(ggflags)
+devtools::install_github("ellisp/ggflags")
+library(ggflags)
 
 # DATA
 COUNTRIES <- read.csv("COUNTRIES.csv")
@@ -32,7 +32,7 @@ p <- ggplot(D) + #, aes(x = Rank, group = Country, country = as.factor(Code)
         theme_minimal() + # Theme
         geom_text(aes(x = Rank, y = -600, label = Country), hjust = 1) + # Names
         geom_text(aes(x = Rank, y = Total + 200, label = as.character(Total)), hjust = 0, color = "black") + # Values  
-        #geom_flag(aes(x = Rank, y = -300,  country = Code), size = 10) + # Flags
+        geom_flag(aes(x = Rank, y = -300,  country = Code), size = 10) + # Flags
         scale_y_continuous(labels = scales::comma) + # Format y-axis values
         scale_x_reverse() + # Highest values on top
         transition_states(Year, transition_length = 4, state_length = 1) + # Animate
