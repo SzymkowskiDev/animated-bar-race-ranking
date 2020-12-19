@@ -36,6 +36,7 @@ However, the installation of devtools needs to be preceeded by installation of '
 ## 🔗 Related Projects
 * [How to create Bar Race Animation Charts in R](https://www.r-bloggers.com/2020/01/how-to-create-bar-race-animation-charts-in-r/)
 * [Inspiration](https://www.youtube.com/watch?v=5FI8c6znXDY&ab_channel=DataBAE)
+* [Exports Performance Monitor](https://github.com/DataScienceScotland/sg-exports-performance-monitor)
 
 ## 📧 Contact
 [![](https://img.shields.io/twitter/url?label=/SzymkowskiDev&style=social&url=https%3A%2F%2Ftwitter.com%2FSzymkowskiDev)](https://twitter.com/SzymkowskiDev) [![](https://img.shields.io/twitter/url?label=/kamil-szymkowski/&logo=linkedin&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-szymkowski%2F)](https://www.linkedin.com/in/kamil-szymkowski/) [![](https://img.shields.io/twitter/url?label=@szymkowskidev&logo=medium&logoColor=%23292929&style=social&url=https%3A%2F%2Fmedium.com%2F%40szymkowskidev)](https://medium.com/@szymkowskidev) [![](https://img.shields.io/twitter/url?label=/SzymkowskiDev&logo=github&logoColor=%23292929&style=social&url=https%3A%2F%2Fgithub.com%2FSzymkowskiDev)](https://github.com/SzymkowskiDev)
